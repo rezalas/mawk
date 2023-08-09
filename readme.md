@@ -1,13 +1,12 @@
-moq
+# EDIT: This is in process, please do not use until this warning is removed. 
+
+
+mawk
 ===
 
-[![Version](https://img.shields.io/nuget/vpre/Moq.svg)](https://www.nuget.org/packages/Moq)
-[![Downloads](https://img.shields.io/nuget/dt/Moq.svg)](https://www.nuget.org/packages/Moq)
-[![Documentation](https://img.shields.io/badge/docs-website-%23fc0)](http://moq.github.io/moq/)
-[![Discord Chat](https://img.shields.io/badge/chat-on%20discord-7289DA.svg)](https://discord.gg/8PtpGdu)
 
 <!-- #content -->
-The most popular and friendly mocking library for .NET
+The spyware-free version of the most popular and friendly mocking library for .NET
 
 ```csharp
   var mock = new Mock<ILoveThisLibrary>();
@@ -104,19 +103,16 @@ We appreciate deeply any feedback that you may have! Feel free to participate in
  "Moq channel on Discord"
 
  [issue tracker]:
- https://github.com/moq/moq/issues
- "Moq issue tracker on GitHub"
+ https://github.com/rezalas/mawk/issues
+ "Mawk issue tracker on GitHub"
 
 <!-- #features -->
 <!-- #sponsors -->
 
-![Sponsors](https://raw.githubusercontent.com/devlooped/sponsors/main/assets/sponsors.svg) Sponsors
 ============
 
 Special thanks to the following gold sponsors of this project:
 
-[![Supported by Amazon Web Services](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/aws.png "Supported by Amazon Web Services")](https://github.com/aws)
-[![Supported by Clarius](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/clarius.png "Supported by Clarius")](https://github.com/clarius)
 
 And to all our sponsors!
 
@@ -124,21 +120,10 @@ And to all our sponsors!
 # Sponsors 
 
 <!-- sponsors.md -->
-[![Clarius Org](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/clarius.png "Clarius Org")](https://github.com/clarius)
-[![C. Augusto Proiete](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/augustoproiete.png "C. Augusto Proiete")](https://github.com/augustoproiete)
-[![Kirill Osenkov](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/KirillOsenkov.png "Kirill Osenkov")](https://github.com/KirillOsenkov)
-[![MFB Technologies, Inc.](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/MFB-Technologies-Inc.png "MFB Technologies, Inc.")](https://github.com/MFB-Technologies-Inc)
-[![SandRock](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/sandrock.png "SandRock")](https://github.com/sandrock)
-[![Andy Gocke](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/agocke.png "Andy Gocke")](https://github.com/agocke)
-[![Stephen Shaw](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/decriptor.png "Stephen Shaw")](https://github.com/decriptor)
-[![Torutek](https://raw.githubusercontent.com/devlooped/sponsors/main/.github/avatars/torutek-gh.png "Torutek")](https://github.com/torutek-gh)
 
 
 <!-- sponsors.md -->
 
-[![Sponsor this project](https://raw.githubusercontent.com/devlooped/sponsors/main/sponsor.png "Sponsor this project")](https://github.com/sponsors/devlooped)
-&nbsp;
 
-[Learn more about GitHub Sponsors](https://github.com/sponsors)
 
 <!-- https://raw.githubusercontent.com/devlooped/sponsors/main/footer.md -->
